@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.smileycorp.lenientparkour.mixin",
+  "refmap": "mixins.lenientparkour.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [],
+  "server": []
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Lenient Parkour",
+  "name": "lenientparkour",
+  "description": "Adds a configurable amount of coyote time to add leniency to jumping off of blocks",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Smileycorp"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
